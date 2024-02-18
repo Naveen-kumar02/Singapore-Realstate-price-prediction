@@ -27,3 +27,4 @@ The main of this project is to predict the price of the singapore realesate hous
 #### model deploynment: 
 1. Once we finishied the Streamlit for user interface we use the render applicaiton for model deploynemnt. So the user will just click the link provide by the render apllicaiton for our project we can share it to the user and every one uses the project to predict the house price.
 
+#### check this link live Ml deploynemnt of machine learnin project https://singaporepricepredicition.onrender.com
