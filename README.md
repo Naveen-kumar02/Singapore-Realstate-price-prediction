@@ -1,6 +1,6 @@
 # Singapore-Realstate-price-prediction 
 
-The main of this project is to predict the price of the singapore realesate house price . So lets see the process of this project.
+The main aim of this project is to predict the price of the singapore realesate house price . So lets see the process of this project.
 ### Overflow
 #### 1.Data collection:
 1. Data is collected from the this website https://beta.data.gov.sg/collections/189/view.
